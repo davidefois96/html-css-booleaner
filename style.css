@@ -27,6 +27,7 @@ div {
   position: absolute;
   top: 50%;
   left: 1%;
+  
 }
 
 
@@ -34,6 +35,7 @@ div {
   margin-top: 25px;
   margin-left: 10px;
   margin-right: 10px;
+  
 }
 
 
@@ -83,7 +85,13 @@ color: gray;
   background-color: yellow;
 }
 
-.
+
+.rimozione-bordi{
+
+  border-collapse: collapse;
+
+}
+
 .celle-strette{
 
   width: 25%;
